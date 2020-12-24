@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import './card.css'
 import CardList from './CardList';
-import Card from './Card';
 import reportWebVitals from './reportWebVitals';
 import 'tachyons';
 import {robots} from './robots';

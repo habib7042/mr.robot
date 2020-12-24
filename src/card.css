@@ -1,0 +1,17 @@
+.card {
+    text-align: center;
+    background: lightgreen;
+    padding: 3px;
+    border: 3px;
+    margin: 2px;
+    height: 400px;
+    width: 400px;
+    display: inline-block;
+    box-shadow: 5px 5px;
+};
+p {
+    font-size: 20px;
+}
+.card:hover {
+    background: lightsalmon;
+}
