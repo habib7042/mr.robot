@@ -3,15 +3,16 @@
     background: lightgreen;
     padding: 3px;
     border: 3px;
-    margin: 2px;
+    margin: 5px;
     height: 400px;
     width: 400px;
     display: inline-block;
-    box-shadow: 5px 5px;
 };
 p {
     font-size: 20px;
 }
 .card:hover {
     background: lightsalmon;
+    box-shadow: 5px 5px 8px gray,;
+    transform: scaleX(1.05);
 }
