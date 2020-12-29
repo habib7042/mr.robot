@@ -10,3 +10,7 @@ h1 {
     font-weight: 200;
     color: rgb(66, 71, 15);
 }
+
+.loading {
+    margin-top: 300px;
+}
