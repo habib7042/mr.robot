@@ -23,3 +23,14 @@ p {
     transform: scaleX(1.05);
     transform: scaleY(1.05);
 }
+
+@media only screen and (max-width: 600px) {
+    .card {
+        height: 300px;
+        width: 300px;
+    }
+    img {
+        height: 150px;
+        width: 150px;
+    }
+}
