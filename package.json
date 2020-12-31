@@ -1,6 +1,5 @@
 {
   "name": "mr.robot",
-  "homepage": "http://robfriends.byethost10.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
